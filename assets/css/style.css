@@ -28,7 +28,17 @@ h3 {
     color: var(--highlight-color);
 }
 
-.container,
+/* Navbar styles */
+
+#navbar {
+    background-color: var(--primary-color);
+}
+
+#navbar .logo {
+    width: 30px;
+}
+
+/* .container,
 .row {
     border: 2px solid black;
 }
@@ -36,4 +46,4 @@ h3 {
 .col-12 {
     border: 2px solid white;
     background-color: lightgray;
-}
+} */
