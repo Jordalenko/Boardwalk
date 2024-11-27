@@ -42,7 +42,7 @@ h2 {
     margin-bottom: 2rem;
 }
 
-/* Navbar styles */
+/* Navbar */
 
 #navbar {
     background-color: var(--primary-color);
@@ -52,7 +52,7 @@ h2 {
     width: 30px;
 }
 
-/* Header CSS */
+/* Header */
 
 #header .lead {
     font-family: var(--secondary-font);
@@ -62,9 +62,15 @@ h2 {
 
 #services .card-footer {
     font-weight: bold;
-    color:var(--highlight-color);
+    color: var(--highlight-color);
     background-color: transparent;
 }
+
+#services .card {
+    margin-bottom: 1.5rem;
+}
+
+/* grid visualisation CSS for testing */
 
 /* .container,
 .row {
