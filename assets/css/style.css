@@ -95,6 +95,19 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+/* Events */
+
+/*
+.table #event-sked:hover {
+    background-color: var(--highlight-color);
+    color: #ffffff
+}
+
+#student-btn {
+    display: flex;
+    justify-content: center;
+} */
+
 /* Game library cards */
 
 #new-games .card,
