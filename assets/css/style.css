@@ -97,17 +97,6 @@ h2 {
 
 /* Events */
 
-/*
-.table #event-sked:hover {
-    background-color: var(--highlight-color);
-    color: #ffffff
-}
-
-#student-btn {
-    display: flex;
-    justify-content: center;
-} */
-
 /* Game library cards */
 
 #new-games .card,
