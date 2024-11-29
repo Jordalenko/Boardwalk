@@ -97,7 +97,9 @@ h2 {
 
 /* Events */
 
-
+#get-centered {
+    justify-content: center;
+}
 
 /* Game library cards */
 
